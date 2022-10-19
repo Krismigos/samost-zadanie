@@ -13,11 +13,12 @@ h4 {
 }
 
 header {
-  min-height: 120vh;
   width: 100%;
+  min-height: 100vh;
   background-size: cover;
   background-image: url("https://lh3.googleusercontent.com/C8oKE5I5vcv_EGGqASiDRNiXjoLVPIOno4efBT7Xzwq2F_OikNThMp2LogqZiTDgPeHgguGFe2cIzpo=w1903-h929");
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .container {
